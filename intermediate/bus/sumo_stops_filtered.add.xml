@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+    <busStop id="de:08121:11:0:0" name="Heilbronn FIAT" lat="49.1637432" lon="9.2158614" lane="-253457746#0_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:11:0:1" name="Heilbronn FIAT" lat="49.1635082" lon="9.2156637" lane="253457746#1_0" startPos="5.04" endPos="17.04" />
+    <busStop id="de:08121:1113" name="Heilbronn Hbf/Busbahnhof" lat="49.1419573" lon="9.2067974" lane="957062957#0_0" startPos="0.00" endPos="0.20" />
+    <busStop id="de:08121:1113:0" name="Heilbronn Hbf/Busbahnhof" lat="49.1418691" lon="9.2069321" lane="1412984736#1_0" startPos="23.64" endPos="35.64" />
+    <busStop id="de:08121:1113:0:1" name="Heilbronn Hbf/Busbahnhof Bstg 1" lat="49.141922" lon="9.206986" lane="1412984736#1_0" startPos="29.53" endPos="41.24" />
+    <busStop id="de:08121:1113:0:2" name="Heilbronn Hbf/Busbahnhof Bstg 2" lat="49.1417398" lon="9.207004" lane="1412984736#1_0" startPos="9.28" endPos="21.28" />
+    <busStop id="de:08121:1113:0:3" name="Heilbronn Hbf/Busbahnhof" lat="49.1415283" lon="9.2069591" lane="1412984736#0_0" startPos="2.07" endPos="14.07" />
+    <busStop id="de:08121:1113:0:5" name="Heilbronn Hbf/Busbahnhof Bstg 5" lat="49.1416223" lon="9.2070309" lane="23081754#0_0" startPos="33.69" endPos="45.69" />
+    <busStop id="de:08121:1113:0:6" name="Heilbronn Hbf/Busbahnhof Bstg 6" lat="49.1418162" lon="9.2070309" lane="23081754#0_0" startPos="16.90" endPos="28.90" />
+    <busStop id="de:08121:1113:0:Hp7" name="Heilbronn Hbf/Busbahnhof Bstg 7" lat="49.1419338" lon="9.2067255" lane="302603178_0" startPos="16.31" endPos="28.31" />
+    <busStop id="de:08121:1113:0:Hp8" name="Heilbronn Hbf/Busbahnhof Bstg 8" lat="49.1418221" lon="9.2063752" lane="302603178_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:1113_Parent" name="Heilbronn Hbf/Busbahnhof" lat="49.1419573" lon="9.2067974" lane="957062957#0_0" startPos="0.00" endPos="0.20" />
+    <busStop id="de:08121:1114:1:1" name="Heilbronn Hbf/Willy-Brandt-Pl." lat="49.1424509" lon="9.2088545" lane="1340342315_0" startPos="23.15" endPos="35.15" />
+    <busStop id="de:08121:1114:1:3" name="Heilbronn Hbf/Willy-Brandt-Pl." lat="49.1424921" lon="9.208594" lane="-1340342315_0" startPos="19.68" endPos="31.68" />
+    <busStop id="de:08121:1114:2:0" name="Heilbronn Hbf/Willy-Brandt-Pl." lat="49.1425097" lon="9.2086209" lane="-1340342315_0" startPos="17.07" endPos="29.07" />
+    <busStop id="de:08121:1114:3:1" name="Heilbronn Hbf/Willy-Brandt-Pl." lat="49.1426213" lon="9.2083514" lane="-1340342315_0" startPos="29.42" endPos="39.68" />
+    <busStop id="de:08121:1114:3:2" name="Heilbronn Hbf/Willy-Brandt-Pl." lat="49.142592" lon="9.2084862" lane="-1340342315_0" startPos="21.96" endPos="33.96" />
+    <busStop id="de:08121:1114:3:3" name="Heilbronn Hbf/Willy-Brandt-Pl." lat="49.1425391" lon="9.2084862" lane="-1340342315_0" startPos="24.51" endPos="36.51" />
+    <busStop id="de:08121:1114_Parent" name="Heilbronn Hbf/Willy-Brandt-Pl." lat="49.1427624" lon="9.2084503" lane="-1340342315_0" startPos="16.12" endPos="28.12" />
+    <busStop id="de:08121:1115:0:1" name="Heilbronn Hbf/Willy-Brandt-Pl. (Steig A)" lat="49.1424686" lon="9.2087467" lane="1340342315_1" startPos="16.91" endPos="28.91" />
+    <busStop id="de:08121:1116:0:0" name="Heilbronn Hbf/Willy-Brandt-Pl. (Steig B)" lat="49.1424862" lon="9.208594" lane="-1340342315_0" startPos="19.97" endPos="31.97" />
+    <busStop id="de:08121:1123:91:1" name="Heilbronn Harmonie (Stadtbahn)" lat="49.1415929" lon="9.2230659" lane="286359741#4_0" startPos="57.10" endPos="69.10" />
+    <busStop id="de:08121:1123:91:2" name="Heilbronn Harmonie (Stadtbahn)" lat="49.1415929" lon="9.2230659" lane="286359741#4_0" startPos="57.10" endPos="69.10" />
+    <busStop id="de:08121:122:0:0" name="Heilbronn Brüggemannstraße" lat="49.1608413" lon="9.2153314" lane="-323515747#2_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:122:0:1" name="Heilbronn Brüggemannstraße" lat="49.1610586" lon="9.2151337" lane="323515747#2_0" startPos="52.12" endPos="64.12" />
+    <busStop id="de:08121:129:0:0" name="Heilbronn Etzelstraße" lat="49.1516881" lon="9.2160141" lane="723238920_1" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:129:0:1" name="Heilbronn Etzelstraße" lat="49.1513179" lon="9.2156458" lane="-81083900#0_1" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:137:1:0" name="Heilbronn Neckarturm" lat="49.1427918" lon="9.2136425" lane="24525923#1_0" startPos="56.75" endPos="68.75" />
+    <busStop id="de:08121:137:1:1" name="Heilbronn Neckarturm" lat="49.1425097" lon="9.213912" lane="235442943_0" startPos="35.06" endPos="47.06" />
+    <busStop id="de:08121:137:1:5" name="Heilbronn Neckarturm" lat="49.1427448" lon="9.2140108" lane="24525923#1_0" startPos="29.42" endPos="41.42" />
+    <busStop id="de:08121:137:2:2" name="Heilbronn Neckarturm" lat="49.1426742" lon="9.2137952" lane="24525923#1_1" startPos="43.43" endPos="55.43" />
+    <busStop id="de:08121:137:3:1" name="Heilbronn Neckarturm" lat="49.1426566" lon="9.2136964" lane="24525923#1_1" startPos="50.17" endPos="62.17" />
+    <busStop id="de:08121:137_Parent" name="Heilbronn Neckarturm" lat="49.1424509" lon="9.213912" lane="235442943_0" startPos="36.21" endPos="48.21" />
+    <busStop id="de:08121:138:0:0" name="Heilbronn Gartenstraße" lat="49.147863" lon="9.225662" lane="153246899#3_0" startPos="36.26" endPos="48.26" />
+    <busStop id="de:08121:138:0:1" name="Heilbronn Gartenstraße" lat="49.1477278" lon="9.2256979" lane="153246899#3_0" startPos="21.53" endPos="33.53" />
+    <busStop id="de:08121:141:0:0" name="Heilbronn Hallenbad Soleo" lat="49.1465115" lon="9.2207572" lane="287381342#0_0" startPos="15.43" endPos="27.43" />
+    <busStop id="de:08121:141:0:1" name="Heilbronn Hallenbad Soleo" lat="49.1462647" lon="9.2206763" lane="288893416#3_0" startPos="6.49" endPos="18.49" />
+    <busStop id="de:08121:153:0:0" name="Heilbronn Käferflug" lat="49.1554718" lon="9.2286444" lane="1260679570#0_0" startPos="18.88" endPos="30.88" />
+    <busStop id="de:08121:153:0:1" name="Heilbronn Käferflug" lat="49.1553131" lon="9.2273778" lane="-153410084#8_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:17:0:0" name="Heilbronn Friedhof" lat="49.1381256" lon="9.2338007" lane="-142453531_0" startPos="26.09" endPos="38.09" />
+    <busStop id="de:08121:17:0:1" name="Heilbronn Friedhof" lat="49.1385252" lon="9.2333605" lane="-106684765#6_0" startPos="23.93" endPos="35.93" />
+    <busStop id="de:08121:170:0:1" name="Heilbronn Mönchseestraße" lat="49.1389072" lon="9.2267939" lane="-107221737#7_0" startPos="0.00" endPos="5.57" />
+    <busStop id="de:08121:170:0:2" name="Heilbronn Mönchseestraße" lat="49.1387897" lon="9.2282581" lane="70972747#1_0" startPos="1.61" endPos="13.61" />
+    <busStop id="de:08121:177:0:0" name="Heilbronn Schillerstraße" lat="49.1435557" lon="9.2317795" lane="61420385#2_0" startPos="52.48" endPos="64.48" />
+    <busStop id="de:08121:177:0:1" name="Heilbronn Schillerstraße" lat="49.1438202" lon="9.2317795" lane="61420385#3_0" startPos="3.18" endPos="15.18" />
+    <busStop id="de:08121:193:0:0" name="Heilbronn Wartbergsteige" lat="49.1534742" lon="9.2317795" lane="1260680174#0_0" startPos="0.00" endPos="11.25" />
+    <busStop id="de:08121:193:0:1" name="Heilbronn Wartbergsteige" lat="49.1534625" lon="9.2318244" lane="1260680174#0_0" startPos="0.85" endPos="11.25" />
+    <busStop id="de:08121:196:0:0" name="Heilbronn Wohlgelegen" lat="49.1516646" lon="9.2072016" lane="380103337_0" startPos="8.83" endPos="20.83" />
+    <busStop id="de:08121:196:0:1" name="Heilbronn Wohlgelegen" lat="49.1515412" lon="9.2070309" lane="380103337_1" startPos="14.25" endPos="26.25" />
+    <busStop id="de:08121:2:0:0" name="Heilbronn Allee Post Ost" lat="49.1402648" lon="9.2219519" lane="632556847#0_0" startPos="9.44" endPos="21.44" />
+    <busStop id="de:08121:2:0:3" name="Heilbronn Allee Post Ost" lat="49.1402648" lon="9.2215926" lane="632556847#0_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:211:0:0" name="Heilbronn Industrieplatz Ost" lat="49.1538032" lon="9.2173077" lane="956505146_1" startPos="0.19" endPos="12.19" />
+    <busStop id="de:08121:212:0:1" name="Heilbronn Industrieplatz West" lat="49.1544319" lon="9.2170651" lane="956505147_0" startPos="0.00" endPos="3.12" />
+    <busStop id="de:08121:23:1:0" name="Heilbronn Harmonie/Kunsthalle" lat="49.1423804" lon="9.2225987" lane="267040059#2_0" startPos="7.24" endPos="19.24" />
+    <busStop id="de:08121:23:90:1" name="Heilbronn Harmonie/Kunsthalle" lat="49.1427095" lon="9.2226975" lane="267040059#4_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:24:2:2" name="HN Harmonie/Hafenmarktpassage" lat="49.1422452" lon="9.2222843" lane="267040060#5_0" startPos="0.19" endPos="12.19" />
+    <busStop id="de:08121:24:2:4" name="HN Harmonie/Hafenmarktpassage" lat="49.1426331" lon="9.2223562" lane="267040060#3_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:24:90:1" name="HN Harmonie/Hafenmarktpassage" lat="49.1423863" lon="9.2223023" lane="267040060#4_0" startPos="5.70" endPos="17.70" />
+    <busStop id="de:08121:3:0:0" name="Heilbronn Allee Post West" lat="49.1402765" lon="9.2212692" lane="632556850#0_0" startPos="6.49" endPos="18.49" />
+    <busStop id="de:08121:3:0:3" name="Heilbronn Allee Post West" lat="49.1402765" lon="9.2212692" lane="632556850#0_0" startPos="6.49" endPos="18.49" />
+    <busStop id="de:08121:3032:1:1" name="Heilbronn Friedensplatz" lat="49.141305" lon="9.2287522" lane="1052540461_0" startPos="36.15" endPos="48.15" />
+    <busStop id="de:08121:3032:2:2" name="Heilbronn Friedensplatz" lat="49.1413167" lon="9.2285007" lane="1052540461_0" startPos="54.54" endPos="66.54" />
+    <busStop id="de:08121:31001:1:1" name="Heilbronn Techn. Schulzentrum" lat="49.1494201" lon="9.2216106" lane="286359623#0_1" startPos="15.47" endPos="27.47" />
+    <busStop id="de:08121:31001:1:2" name="Heilbronn Techn. Schulzentrum" lat="49.1494025" lon="9.2215567" lane="286359621#6_0" startPos="0.00" endPos="9.14" />
+    <busStop id="de:08121:31002:1:1" name="Heilbronn Theater" lat="49.1463058" lon="9.2220777" lane="286359697#0_2" startPos="6.20" endPos="17.13" />
+    <busStop id="de:08121:31002:1:2" name="Heilbronn Theater" lat="49.1462882" lon="9.2220777" lane="286359697#0_2" startPos="6.04" endPos="17.13" />
+    <busStop id="de:08121:31003:1:1" name="Heilbronn Industriepl.(S-Bahn)" lat="49.1552896" lon="9.2181521" lane="256269642#1_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:31003:1:2" name="Heilbronn Industriepl.(S-Bahn)" lat="49.1552955" lon="9.2180982" lane="256269642#1_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:31004:1:1" name="Heilbronn Hans-Rießer-Straße" lat="49.1621748" lon="9.2195265" lane="256268696#2_0" startPos="65.25" endPos="77.25" />
+    <busStop id="de:08121:31004:1:2" name="Heilbronn Hans-Rießer-Straße" lat="49.1624508" lon="9.2196253" lane="256268695#9_0" startPos="13.33" endPos="25.33" />
+    <busStop id="de:08121:31004:3:3" name="Heilbronn Hans-Rießer-Straße" lat="49.1639018" lon="9.2196163" lane="-253457743_0" startPos="3.32" endPos="15.32" />
+    <busStop id="de:08121:31004:3:4" name="Heilbronn Hans-Rießer-Straße" lat="49.1635258" lon="9.2194906" lane="1291899629#0_0" startPos="16.00" endPos="28.00" />
+    <busStop id="de:08121:31004_Parent" name="Heilbronn Hans-Rießer-Straße" lat="49.1622041" lon="9.2195624" lane="256268696#2_0" startPos="61.90" endPos="73.90" />
+    <busStop id="de:08121:34:0:0" name="Heilbronn Karlsruher Straße" lat="49.1386251" lon="9.206438" lane="219823102_0" startPos="3.03" endPos="15.03" />
+    <busStop id="de:08121:35:2:0" name="Heilbronn Karlstor" lat="49.1459474" lon="9.2342589" lane="61420383#1_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:35:2:1" name="Heilbronn Karlstor" lat="49.1459062" lon="9.2344655" lane="-61420383#1_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:41052:0:0" name="Heilbronn Zukunftspark Ost" lat="49.1543849" lon="9.2078753" lane="102509580#2_0" startPos="57.10" endPos="69.10" />
+    <busStop id="de:08121:4479:0:2" name="Heilbronn Allee/Moltkestraße" lat="49.1414108" lon="9.2223562" lane="85851313#3_0" startPos="0.00" endPos="4.79" />
+    <busStop id="de:08121:48:0:0" name="Heilbronn Neckarsulmer Straße" lat="49.1540794" lon="9.224593" lane="153410084#3_0" startPos="18.26" endPos="30.26" />
+    <busStop id="de:08121:48:0:1" name="Heilbronn Neckarsulmer Straße" lat="49.1542145" lon="9.2248535" lane="-153410084#4_0" startPos="20.41" endPos="31.82" />
+    <busStop id="de:08121:53:0:0" name="Heilbronn Pestalozzistraße" lat="49.1497726" lon="9.223515" lane="-88543983#6_0" startPos="24.56" endPos="36.56" />
+    <busStop id="de:08121:53:0:1" name="Heilbronn Pestalozzistraße" lat="49.1498373" lon="9.2227245" lane="88543983#9_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:55:1:0" name="Heilbronn  Rathaus" lat="49.1420689" lon="9.2184485" lane="-286359615#2_0" startPos="28.74" endPos="40.74" />
+    <busStop id="de:08121:55:1:1" name="Heilbronn  Rathaus" lat="49.1419749" lon="9.2186911" lane="286359615#2_0" startPos="28.92" endPos="40.92" />
+    <busStop id="de:08121:55:2:2" name="Heilbronn  Rathaus" lat="49.1419749" lon="9.218709" lane="286359615#2_0" startPos="30.21" endPos="42.21" />
+    <busStop id="de:08121:55:3:1" name="Heilbronn  Rathaus" lat="49.1420689" lon="9.2184755" lane="-286359615#2_0" startPos="26.81" endPos="38.81" />
+    <busStop id="de:08121:55_Parent" name="Heilbronn  Rathaus" lat="49.1419925" lon="9.218709" lane="286359615#2_0" startPos="29.91" endPos="41.91" />
+    <busStop id="de:08121:62:0:1" name="Heilbronn Schickhardtstraße" lat="49.1519819" lon="9.2338456" lane="254760066#8_0" startPos="28.46" endPos="40.46" />
+    <busStop id="de:08121:62:0:3" name="Heilbronn Schickhardtstraße" lat="49.1519819" lon="9.2338456" lane="254760066#8_0" startPos="28.46" endPos="40.46" />
+    <busStop id="de:08121:75:1" name="Heilbronn Sülmertor" lat="49.1513356" lon="9.2204877" lane="217566953#1_0" startPos="0.14" endPos="12.14" />
+    <busStop id="de:08121:75:1:1" name="Heilbronn Sülmertor Gleis 1" lat="49.1512063" lon="9.2203709" lane="217566953#2_0" startPos="4.49" endPos="16.49" />
+    <busStop id="de:08121:75:2:1" name="Heilbronn Sülmertor" lat="49.1515059" lon="9.2220148" lane="42802368#1_0" startPos="30.28" endPos="42.28" />
+    <busStop id="de:08121:75:2:2" name="Heilbronn Sülmertor" lat="49.1494377" lon="9.2209458" lane="83738619#0_0" startPos="23.56" endPos="35.56" />
+    <busStop id="de:08121:75:3:2" name="Heilbronn Sülmertor Gleis 2" lat="49.1508009" lon="9.2199936" lane="217566953#4_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:75_Parent" name="Heilbronn Sülmertor" lat="49.1512239" lon="9.2203529" lane="217566953#2_0" startPos="2.89" endPos="14.89" />
+    <busStop id="de:08121:76:0:1" name="Heilbronn Berliner Platz West" lat="49.1449073" lon="9.222976" lane="359371886#4_0" startPos="11.01" endPos="23.01" />
+    <busStop id="de:08121:79:0:2" name="Heilbronn B27 (Kreuzenstraße)" lat="49.1591612" lon="9.2259315" lane="243492729_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:8:0:0" name="HN Europapl./Bildungscampus West" lat="49.1488854" lon="9.2142534" lane="142234386#2_0" startPos="38.04" endPos="50.04" />
+    <busStop id="de:08121:8:0:1" name="HN Europapl./Bildungscampus West" lat="49.1476103" lon="9.2143432" lane="67486716#0_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:81:0:Hp. 2" name="Heilbronn Wollhausplatz Bstg 2" lat="49.1395595" lon="9.2205506" lane="262459105_0" startPos="0.94" endPos="12.94" />
+    <busStop id="de:08121:81:0:Hp. 3" name="Heilbronn Wollhausplatz Bstg 3" lat="49.1394949" lon="9.2205596" lane="263640634_0" startPos="0.00" endPos="0.62" />
+    <busStop id="de:08121:81:0:Hp. 5" name="Heilbronn Wollhausplatz Bstg 5" lat="49.1393891" lon="9.2206045" lane="65253152_0" startPos="0.65" endPos="12.65" />
+    <busStop id="de:08121:81:0:Hp. 6" name="Heilbronn Wollhausplatz Bstg 6" lat="49.1392951" lon="9.2206045" lane="65253159_0" startPos="0.33" endPos="12.33" />
+    <busStop id="de:08121:81_Parent" name="Heilbronn Wollhausplatz" lat="49.13973" lon="9.2205775" lane="125174594_0" startPos="0.00" endPos="8.07" />
+    <busStop id="de:08121:8192:0:7" name="Heilbronn Pfühlbrunnen" lat="49.1429798" lon="9.2355165" lane="217784989#5_0" startPos="34.19" endPos="46.19" />
+    <busStop id="de:08121:8202:0:0" name="Heilbronn Fügerstraße" lat="49.1505952" lon="9.2129418" lane="108358233_0" startPos="0.00" endPos="12.00" />
+    <busStop id="de:08121:8202:0:1" name="Heilbronn Fügerstraße" lat="49.1503073" lon="9.2137144" lane="142234375#1_2" startPos="0.00" endPos="5.42" />
+    <busStop id="de:08121:8204:0:0" name="Heilbronn Containerterminal" lat="49.160665" lon="9.2079742" lane="-366275218#1_0" startPos="0.00" endPos="11.43" />
+    <busStop id="de:08121:8204:0:1" name="Heilbronn Containerterminal" lat="49.1603537" lon="9.2077136" lane="148817480_0" startPos="6.52" endPos="18.52" />
+    <busStop id="de:08121:8207:0:1" name="Heilbronn Zukunftspark West" lat="49.1547785" lon="9.2076867" lane="102509581#1_0" startPos="15.74" endPos="27.74" />
+    <busStop id="de:08121:8208:0:0" name="Heilbronn Zukunftspark Süd" lat="49.153533" lon="9.2068333" lane="-517904533_0" startPos="7.26" endPos="19.26" />
+    <busStop id="de:08121:9343:0:1" name="Heilbronn Berliner Platz Ost" lat="49.1448015" lon="9.2232365" lane="267040059#17_0" startPos="33.90" endPos="45.90" />
+    <busStop id="de:08121:96:0:1" name="Heilbronn Kirschengarten" lat="49.1610586" lon="9.2273957" lane="129826319#7_0" startPos="32.45" endPos="44.45" />
+    <busStop id="de:08121:96:0:2" name="Heilbronn Kirschengarten" lat="49.1614933" lon="9.2274945" lane="-129826319#8_0" startPos="59.06" endPos="71.06" />
+    <busStop id="de:08121:99:0:0" name="Heilbronn Karmeliterstraße" lat="49.1427154" lon="9.2287432" lane="106509785_2" startPos="1.07" endPos="13.07" />
+    <busStop id="de:08121:99:0:1" name="Heilbronn Karmeliterstraße" lat="49.1427624" lon="9.2286803" lane="155557690#1_0" startPos="53.11" endPos="65.11" />
+    </additional>

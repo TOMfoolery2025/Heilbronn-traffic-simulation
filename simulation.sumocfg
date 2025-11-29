@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <!-- ========================= -->
+    <!--        INPUT FILES        -->
+    <!-- ========================= -->
+    <input>
+        <net-file value="network/sumo/heilbronn.net.xml"/>
+        <route-files value="intermediate/bus/sumo_routes_connected.rou.xml,intermediate/car/evening.xml"/>
+        <additional-files value="intermediate/bus/sumo_stops_filtered.add.xml"/>
+    </input>
+
+    <!-- intermediate/car/evening.xml,intermediate/pedestrian/evening.xml -->
+
+    <!-- ========================= -->
+    <!--     SIMULATION SETUP      -->
+    <!-- ========================= -->
+    <time>
+        <begin value="57600"/>
+        <end value="68400"/>
+        <step-length value="1.0"/>
+    </time>
+
+    <!-- <processing>
+        <mesosim value="true"/>
+        
+        <meso-edgelength value="20"/> <ignore-junction-blocker value="20"/>
+        <time-to-teleport value="300"/>
+    </processing> -->
+
+    <!-- ========================= -->
+    <!--       OUTPUT SETTINGS     -->
+    <!-- ========================= -->
+    <output>
+
+        <!-- 1. FCD: per-step vehicle positions -->
+        <fcd-output value="results/trace.xml"/>
+
+        <!-- 2. Trip summary per vehicle -->
+        <tripinfo-output value="results/tripinfo.xml"/>
+
+        <!-- 3. Emissions -->
+        <emission-output value="results/emissions.xml"/>
+
+        <!-- 4. Global summary -->
+        <summary-output value="results/summary.xml"/>
+
+        <!-- 5. Edge-based data (flow, speed, occupancy) -->
+        <edgedata-output value="results/edgedata.xml"/>
+
+    </output>
+
+    <!-- ========================= -->
+    <!--         LOGGING           -->
+    <!-- ========================= -->
+    <report>
+        <xml-validation value="never"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
